@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Devj33
+- 👋 Hi, I’m Dev jain
 - 👀 I’m interested in development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on js projects
+
 
 
 <!---
